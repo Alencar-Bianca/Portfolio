@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Press Start 2P', sans-serif;
+    color: #fff;
+    text-shadow: 5px 5px 0 #000;
+    font-size: 1.8em;
+}
+#nome{
+    color: #CDCBA6;
+    text-shadow: 4px 4px 0 #000;
+}
+#button{
+    background-color: var(--cor03);
+    display: inline-block;
+    box-shadow: 5px 5px 0 #000;
+    padding: 18px 20px;
+    margin-right: 0;
+    transition: transform 100ms linear;
+}
+#button:hover{
+    background-color:#02929c;
+    transform: scale(1.08);  
+}
