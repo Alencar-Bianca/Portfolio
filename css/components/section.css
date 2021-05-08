@@ -2,8 +2,13 @@
     background-color: var(--cor04);
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid var(--cor02);
+    border-bottom: 10px solid var(--cor01);
 }
 .section .main-title{
     margin-bottom: 60px;
+}
+
+
+.section.-bg{
+    background-color: var(--cor02);
 }
