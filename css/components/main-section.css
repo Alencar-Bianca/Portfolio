@@ -12,3 +12,9 @@
 .main-section.-bg{
     background-color: var(--cor02);
 }
+.main-section.-bgsecond{
+    background-color: var(--cor05);
+}
+.main-section.-bdblack{
+    border-color: #000;
+}
