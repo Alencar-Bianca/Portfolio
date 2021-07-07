@@ -14,3 +14,7 @@
     transform: scale(1.08);  
     color: #fff;
 }
+
+.main-button.-full{
+    width: 100%;
+}
